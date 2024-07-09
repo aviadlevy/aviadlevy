@@ -1,7 +1,7 @@
 # Hi, I’m Aviad Levy
 
 - I'm a full-time software developer. 
-- On my work I mainly write code in ![](https://img.shields.io/badge/Java-Code?style=flat&logo=java&logoColor=white&color=007396), but I also code in ![](https://img.shields.io/badge/Python-Code?style=flat&logo=python&logoColor=white&color=3776AB), ![](https://img.shields.io/badge/NodeJs-Code?style=flat&logo=nodedotjs&logoColor=white&color=339933) and ![](https://img.shields.io/badge/Go-Code?style=flat&logo=go&logoColor=white&color=00ADD8)  
+- On my work I mainly write code in ![](https://img.shields.io/badge/Python-Code?style=flat&logo=python&logoColor=white&color=3776AB), but I also code in ![](https://img.shields.io/badge/Java-Code?style=flat&logo=java&logoColor=white&color=007396), ![](https://img.shields.io/badge/NodeJs-Code?style=flat&logo=nodedotjs&logoColor=white&color=339933) and ![](https://img.shields.io/badge/Go-Code?style=flat&logo=go&logoColor=white&color=00ADD8)  
   - On my free time, I'm coding in whatever language I want :sunglasses:
 
 ## Contact information
